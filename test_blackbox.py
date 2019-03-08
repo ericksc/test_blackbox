@@ -8,4 +8,4 @@ def test_method1():
 
 def test_method2():
 
-    assert 3 == blackbox.method2(), 'debe ser  2'
+    assert 2 == blackbox.method2(), 'debe ser  2'
